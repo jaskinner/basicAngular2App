@@ -1,1 +1,3 @@
-# basicAngular2App
+## Basic Angular2 App
+
+Angular2 Application with original quickstart template.
